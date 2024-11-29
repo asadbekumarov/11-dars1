@@ -39,3 +39,5 @@ Ellog.addEventListener("click", async (e) => {
     console.error("Xato yuz berdi:", e.message);
   }
 });
+
+window.location.href = "/";
